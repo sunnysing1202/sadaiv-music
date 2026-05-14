@@ -2,7 +2,7 @@
 
 Local music player for Android with Watch Together and Jam listen-along.
 
-**Download:** [APK](APK_LINK_HERE)
+**Download:** [APK](https://github.com/sunnysing1202/sadaiv-music/releases/download/v1.0.0/sadaiv-music.apk)
 
 ## Highlights
 
@@ -107,5 +107,3 @@ The app plays local files. Online features only use data needed to sync sessions
 - Report issues or feedback: add your contact link here
 
 ---
-
-Replace `APK_LINK_HERE` with your hosted download URL.
